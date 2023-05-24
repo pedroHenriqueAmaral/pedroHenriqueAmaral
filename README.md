@@ -1,18 +1,21 @@
-### Salve ☕
+### ☕Salve 
 
+<!--
 <div style="margin_left: 10px;">
   <a href="#">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroHenriqueAmaral&theme=aura&show_icons=true" />
   </a>
 </div>
-
 <br />
+-->
 
 <div>
+  <p>⚡Estudando:</p>
+  
   <img width="50" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon" />
   <img width="50" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Icon" />
   <img width="50" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript Icon" />
-  <img width="50" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code Icon" />
+  <!--<img width="50" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code Icon" />-->
 </div>
 
 ##
